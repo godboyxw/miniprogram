@@ -1,0 +1,10 @@
+/* pages/news/news.wxss */
+.container{
+  width: 100%;
+}
+.text{
+  width: 100%;
+  font-size: 32rpx;
+  text-indent: 64rpx;
+  letter-spacing: 3.2rpx;
+}
